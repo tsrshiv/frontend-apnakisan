@@ -10,7 +10,6 @@ https://frontend-apnakisan.vercel.app/index.html#new-arrivals
 4. [Usage](#usage)
 5. [Contributing](#contributing)
 6. [Support](#support)
-7. [License](#license)
 
 ## Introduction
 
